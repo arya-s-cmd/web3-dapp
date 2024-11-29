@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@walletconnect/web3-provider": "^1.8.0",
-    // "ethers": "^5.7.2",
     "ethers": "^6.1.0",
     "hardhat": "^2.22.3",
     "next": "14.1.4",
