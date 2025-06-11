@@ -5,7 +5,7 @@ export default ({startModal, setStartModal, startShipment}) => {
   const [getProduct, setGetProduct] = useState({
     receiver: "",
     index: "",
-  });
+  }); 
 
   const startShipping = async () => {
     // startShipment(getProduct);
