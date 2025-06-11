@@ -1,6 +1,5 @@
 import React, {useState, useEffect, useContext} from "react";
 
-//INTERNAL IMPORT
 import{
   Table,
   Form,
