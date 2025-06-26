@@ -6,7 +6,6 @@ contract Tracking {
 
 
 
-
     struct Shipment {
         address sender;
         address receiver;
